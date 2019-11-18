@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.bt-10 {
+  margin-bottom: 10px;
+}
+.card {
+  border: 1px red solid;
+  width: 300px;
+  text-align: center;
+  font-weight: 900;
+  text-transform: capitalize;
+  padding: 5px;
+}
+
+.data {
+  width: 90%;
+  display: inline-block;
+}
